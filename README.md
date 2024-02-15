@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋, Welcome to my Github profile. 
 
-<!--
-**jfbarkokebas/jfbarkokebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Call me Felipe. I'm from Recife, Pernambuco - BR 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working as a freelancer but if you are employer ...
+- 🌱 I’m currently learning microservices with Spring boot
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Java, HTML, CSS, Javascript
+- 📫 How to reach me: www.linkedin.com/in/felipe-barkokebas-87a19639/
+- ⚡ Fun fact: I used to be a teacher and musician, but since 2021 I can't see myself without coding
+
+  #I use:
+   
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40"/> <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  <img loading="lazy" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+
+<div>
+<a href="https://github.com/jfbarkokebas">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfbarkokebas&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jfbarkokebas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+          
+          
+
