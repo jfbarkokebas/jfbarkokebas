@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a freelancer but if you are an employer ...
 - 🌱 I’m currently learning microservices with Spring boot
-- 💬 Ask me about Java, JDBC, Hibernate, HTML, CSS, Javascript
+- 💬 Ask me about Java, Spring, JDBC, Hibernate, HTML, CSS, Javascript
 - 📫 How to reach me: www.linkedin.com/in/felipe-barkokebas-87a19639/
 - ⚡ Fun fact: I used to be a teacher and musician, but since 2021 I can't see myself without coding
 
